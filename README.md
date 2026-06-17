@@ -97,7 +97,3 @@ npm run preview
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
-## Author
-
-He Shuting (何淑婷) — [he18718143986-design](https://github.com/he18718143986-design)
